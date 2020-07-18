@@ -24,3 +24,7 @@ This type of recommendation systems, takes in a movie that a user currently like
 This algorithm at first tries to find similar users based on their activities and preferences (for example, both the users watch same type of movies or movies directed by the same director). Now, between these users(say, A and B) if user A has seen a movie that user B has not seen yet, then that movie gets recommended to user B and vice-versa. In other words, the recommendations get filtered based on the collaboration between similar user’s preferences (thus, the name “Collaborative Filtering”). One typical application of this algorithm can be seen in the Amazon e-commerce platform, where you get to see the “Customers who viewed this item also viewed” and “Customers who bought this item also bought” list.
 
 But we are going to implement a Content based recommendation system using the scikit-learn library.
+Enjoy!!!
+
+
+Thanks - CodeHeroku
